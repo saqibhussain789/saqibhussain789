@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/abe4b00a-a712-4b65-90cc-1fbd2d23f7b5" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 " />
 
 I’m **Saqib Hussain**, a **passionate Full Stack Web Developer** from **Pakistan**, focused on building real-world, scalable web applications and continuously improving my skills.
