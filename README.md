@@ -19,7 +19,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" />
+<img align="right" alt="Coding" width="380" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/abe4b00a-a712-4b65-90cc-1fbd2d23f7b5" />
+" />
 
 I’m **Saqib Hussain**, a **passionate Full Stack Web Developer** from **Pakistan**, focused on building real-world, scalable web applications and continuously improving my skills.
 
